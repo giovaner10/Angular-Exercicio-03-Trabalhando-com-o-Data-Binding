@@ -1,0 +1,51 @@
+body{
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  font-size: x-largeng;
+  color: black;
+
+}
+
+#display{
+
+  display: flex;
+  flex-direction: row;
+  height: 60%;
+  font-size: x-largeng;
+  color: black;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgb(255, 196, 228);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+#display p{
+
+  font-size: 70px;
+
+}
+
+
+ #incrementar{
+  background-color: blue;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 50px;
+}
+
+ #decrementar{
+  background-color: red;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 50px;
+}
+
+#limpar{
+  margin: 30px;
+}
+
+
